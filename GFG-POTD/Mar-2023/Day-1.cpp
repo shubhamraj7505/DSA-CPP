@@ -1,4 +1,5 @@
 // Update Queries
+// gfg
 
 // Link - https://practice.geeksforgeeks.org/problems/a6528c893d4ab645ec6e0690c7982748385099c8/1
 
